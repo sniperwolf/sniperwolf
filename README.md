@@ -27,7 +27,7 @@ me.sayHi();
 
 ### 📌 Projects
 
-- [taggingJS](https://github.com/sniperwolf/taggingjs) ![GitHub Repo stars](https://img.shields.io/github/stars/sniperwolf/taggingjs): jQuery plugin to tagging like a charm 🏷️
+- [taggingJS](https://github.com/sniperwolf/taggingjs): jQuery plugin to tagging like a charm 🏷️ ~1,000 GitHub ⭐️
 
 ### 🤝 Some Contributions
 
